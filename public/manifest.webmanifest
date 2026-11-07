@@ -1,0 +1,11 @@
+{
+  "name": "Shalom PG",
+  "short_name": "Shalom PG",
+  "description": "Houses, residents, documents and rent reminders in one place.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f0e8",
+  "theme_color": "#1e4d3b",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
